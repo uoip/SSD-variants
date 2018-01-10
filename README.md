@@ -92,6 +92,7 @@ The backbone network `vgg16_reducedfc.pth` is from repo [amdegroot/ssd.pytorch](
 
 ## Results
 VOC07 mAP
+
 |  models  | my result | paper result |
 |----------|-----------|--------------|
 |  SSD300  |  76.5%   |    77.2%     |
